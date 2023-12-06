@@ -1,7 +1,9 @@
-#demo video:
+# UT ECE 2023 Senior Design Project - Steven Nguyen, Nathan Stern, Mingi Hong, John Lu, Nguyen Pham
+
+## demo video:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/a9iC52XTWP8/0.jpg)](http://www.youtube.com/watch?v=a9iC52XTWP8 "D11 ARStreet View Reviews")
 
-#Abstract
+## Abstract
 
 We aimed to develop a mobile application that swiftly provides consumer-focused information about nearby businesses. Utilizing AR technology, the app will overlay visual information panels onto the device's camera screen when aimed at an establishment, offering details, descriptions, and reviews. This approach intends to address the time-consuming nature of existing review apps by delivering immediate information about surrounding establishments, enhancing real-time decision-making for consumers.
  
