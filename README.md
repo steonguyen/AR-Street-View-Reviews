@@ -1,4 +1,5 @@
-# UT ECE 2023 Senior Design Project - Steven Nguyen, Nathan Stern, Mingi Hong, John Lu, Nguyen Pham
+# UT ECE 2023 Senior Design Project - AR Street View Reviews App
+## Steven Nguyen, Nathan Stern, Mingi Hong, John Lu, Nguyen Pham
 
 ## demo video:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/a9iC52XTWP8/0.jpg)](http://www.youtube.com/watch?v=a9iC52XTWP8 "D11 ARStreet View Reviews")
