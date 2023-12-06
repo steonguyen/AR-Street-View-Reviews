@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a9iC52XTWP8" frameborder="0" allowfullscreen></iframe>
+
 We aimed to develop a mobile application that swiftly provides consumer-focused information about nearby businesses. Utilizing AR technology, the app will overlay visual information panels onto the device's camera screen when aimed at an establishment, offering details, descriptions, and reviews. This approach intends to address the time-consuming nature of existing review apps by delivering immediate information about surrounding establishments, enhancing real-time decision-making for consumers.
  
 The AR technology utilized in the app overlays virtual images onto the device's camera lens based on the user's location and orientation, enabling quick access to information about nearby restaurants, stores, and other businesses. Our motivation stems from the need to offer users descriptions, ratings, and reviews in seconds, improving decision-making processes. This app seeks to revolutionize the consumer experience by providing an efficient, "real-time" exploration of surroundings through Google API and an AR lens.
